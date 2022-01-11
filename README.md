@@ -4,7 +4,7 @@
     <h4 align="center"><samp> We are Nitrogen Team </samp></h4>
 </div>
 <div align="center">
-    <h4 align="center"><samp>  We can Fullstack Web Developer - App & Bot Developer - Graphic Designer </samp></h4>
+    <h4 align="center"><samp>  We are Fullstack Web Developer - App & Bot Developer - Graphic Designer </samp></h4>
 </div>
 
 <h3 align="center">
